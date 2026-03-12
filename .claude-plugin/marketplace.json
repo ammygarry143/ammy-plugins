@@ -1,0 +1,19 @@
+{
+    "name": "ammy-garry-plugins",
+    "description": "Directory of Ammy Garry's development tools, productivity plugins, and MCP integrations",
+    "owner": {
+      "name": "Aman Garg",
+      "email": "manipal.amangarg@gmail.com"
+    },
+    "plugins": [
+      {
+        "name": "codex-reviewer",
+        "description": "Codex Reviewer is a tool that helps you review code and provide feedback on it.",
+        "version": "1.0.0",
+        "author": {
+          "name": "Aman Garg",
+          "email": "manipal.amangarg@gmail.com"
+        }
+      }
+    ]
+}

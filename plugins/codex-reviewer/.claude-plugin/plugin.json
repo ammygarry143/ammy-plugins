@@ -1,0 +1,9 @@
+{
+    "name": "codex-reviewer",
+    "version": "1.0.0",
+    "description": "Codex Reviewer is a tool that helps you review code via codex cli and provide feedback on it.",
+    "author": {
+      "name": "Aman Garg",
+      "email": "manipal.amangarg@gmail.com"
+    }
+  }
