@@ -4,6 +4,7 @@
     "description": "Draw.io plugin for creating and editing diagrams, flowcharts, and visual documentation.",
     "mcpServers": "./.mcp.json",
     "skills": "./skills/",
+    "agents": "./agents/",
     "author": {
       "name": "Aman Garg",
       "email": "manipal.amangarg@gmail.com"
