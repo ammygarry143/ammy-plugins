@@ -1,0 +1,9 @@
+{
+    "name": "drawio",
+    "version": "1.0.0",
+    "description": "Draw.io plugin for creating and editing diagrams, flowcharts, and visual documentation.",
+    "author": {
+      "name": "Aman Garg",
+      "email": "manipal.amangarg@gmail.com"
+    }
+  }
