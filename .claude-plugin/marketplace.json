@@ -14,7 +14,9 @@
         "author": {
           "name": "Aman Garg",
           "email": "manipal.amangarg@gmail.com"
-        }
+        },
+        "category": "development",
+        "homepage": "https://github.com/ammygarry143/ammy-plugins/tree/main/plugins/codex-reviewer"
       }
     ]
 }
