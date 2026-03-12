@@ -17,6 +17,18 @@
         },
         "category": "development",
         "homepage": "https://github.com/ammygarry143/ammy-plugins/tree/main/plugins/codex-reviewer"
+      },
+      {
+        "name": "drawio",
+        "source": "./plugins/drawio",
+        "description": "Draw.io plugin for creating and editing diagrams, flowcharts, and visual documentation.",
+        "version": "1.0.0",
+        "author": {
+          "name": "Aman Garg",
+          "email": "manipal.amangarg@gmail.com"
+        },
+        "category": "visual-design",
+        "homepage": "https://github.com/ammygarry143/ammy-plugins/tree/main/plugins/drawio"
       }
     ]
 }
