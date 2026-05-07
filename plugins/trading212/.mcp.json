@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "trading212": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "${CLAUDE_PLUGIN_ROOT}/server",
+        "src/server.py"
+      ],
+      "env": {
+        "TRADING212_API_KEY": "${TRADING212_API_KEY}",
+        "TRADING212_API_SECRET": "${TRADING212_API_SECRET}",
+        "ENVIRONMENT": "${TRADING212_ENVIRONMENT}"
+      }
+    }
+  }
+}
